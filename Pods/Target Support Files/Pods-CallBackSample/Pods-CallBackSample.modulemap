@@ -1,0 +1,6 @@
+framework module Pods_CallBackSample {
+  umbrella header "Pods-CallBackSample-umbrella.h"
+
+  export *
+  module * { export * }
+}

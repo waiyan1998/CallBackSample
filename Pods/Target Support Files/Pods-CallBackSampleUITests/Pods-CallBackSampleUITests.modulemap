@@ -1,0 +1,6 @@
+framework module Pods_CallBackSampleUITests {
+  umbrella header "Pods-CallBackSampleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
